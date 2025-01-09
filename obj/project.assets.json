@@ -55,23 +55,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\larsh\\.nuget\\packages\\": {},
+    "C:\\Users\\sidar\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\larsh\\source\\repos\\PRAC3\\PRAC3.csproj",
+      "projectUniqueName": "C:\\laragon\\www\\PRAC3-Native\\PRAC3.csproj",
       "projectName": "PRAC3",
-      "projectPath": "C:\\Users\\larsh\\source\\repos\\PRAC3\\PRAC3.csproj",
-      "packagesPath": "C:\\Users\\larsh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\larsh\\source\\repos\\PRAC3\\obj\\",
+      "projectPath": "C:\\laragon\\www\\PRAC3-Native\\PRAC3.csproj",
+      "packagesPath": "C:\\Users\\sidar\\.nuget\\packages\\",
+      "outputPath": "C:\\laragon\\www\\PRAC3-Native\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\larsh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\sidar\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],

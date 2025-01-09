@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PRAC3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+40349f6650a432b559b75facf923647361e6a414")]
 [assembly: System.Reflection.AssemblyProductAttribute("PRAC3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PRAC3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
