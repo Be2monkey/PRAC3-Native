@@ -1,0 +1,17 @@
+C:\Users\larsh\source\repos\PRAC3\bin\Debug\net8.0\PRAC3.exe
+C:\Users\larsh\source\repos\PRAC3\bin\Debug\net8.0\PRAC3.deps.json
+C:\Users\larsh\source\repos\PRAC3\bin\Debug\net8.0\PRAC3.runtimeconfig.json
+C:\Users\larsh\source\repos\PRAC3\bin\Debug\net8.0\PRAC3.dll
+C:\Users\larsh\source\repos\PRAC3\bin\Debug\net8.0\PRAC3.pdb
+C:\Users\larsh\source\repos\PRAC3\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\PRAC3.csproj.AssemblyReference.cache
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\PRAC3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\PRAC3.AssemblyInfoInputs.cache
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\PRAC3.AssemblyInfo.cs
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\PRAC3.csproj.CoreCompileInputs.cache
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\PRAC3.csproj.Up2Date
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\PRAC3.dll
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\refint\PRAC3.dll
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\PRAC3.pdb
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\PRAC3.genruntimeconfig.cache
+C:\Users\larsh\source\repos\PRAC3\obj\Debug\net8.0\ref\PRAC3.dll
